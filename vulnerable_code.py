@@ -1,6 +1,8 @@
 # test_code.py
 import os
 clave_api="dsd33rfkksdwwfefE"
+def suma(a,b):
+   return a+b
 def get_file_content(filename):
    
     full_path = "/var/www/data/" + filename
