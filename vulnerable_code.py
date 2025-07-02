@@ -1,6 +1,6 @@
 # test_code.py
 import os
-
+clave_api="dsd33rfkksdwwfefE"
 def get_file_content(filename):
    
     full_path = "/var/www/data/" + filename
