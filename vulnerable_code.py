@@ -1,6 +1,8 @@
 # test_code.py
 import os
-clave_api="dsd33rfkksdwwfefE"
+
+API_GOOGLE="psd9902DDSfd72923"
+passord=10291
 def get_file_content(filename):
    
     full_path = "/var/www/data/" + filename
