@@ -3,7 +3,7 @@ const auth = require('./auth');
 const db = require('./database');
 const utils = require('./utils');
 const config = require('./config');
-
+const API_KEY = '12345-SECRET-HARDCODED-KEY';
 const app = express();
 app.use(express.json());
 
