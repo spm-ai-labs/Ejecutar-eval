@@ -1,7 +1,7 @@
 # main_api.py
 # Language: Python
 
-pass="sebasreowe000112"
+API_KEY="sdk019324nkwnwkmfwrm3fdmvdg"
 import os
 import re
 import asyncio
